@@ -1,0 +1,10 @@
+/* Intentionally minimal — the original prototype injects its own font import
+   and responsive rules via a <style> tag inside PortalApp.jsx, unchanged. */
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
